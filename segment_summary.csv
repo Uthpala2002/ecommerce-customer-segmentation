@@ -1,0 +1,5 @@
+Cluster,Recency,Frequency,Monetary,CustomerCount,Pct_of_Customers,Recommendation
+Lost,474.9,2.0,668.3,1868,31.8,"Low-cost win-back campaign (e.g. ""We miss you"" email). If no response, deprioritize marketing spend on this group."
+At Risk,83.5,3.8,1207.3,3000,51.0,Send re-engagement campaigns with limited-time discounts before they churn completely.
+Champions,36.6,34.1,20695.4,202,3.4,"Reward with loyalty perks, early access to new products, and VIP treatment. Ask for reviews/referrals."
+Loyal Customers,44.1,14.8,5915.7,808,13.7,Upsell and cross-sell. Encourage higher spend with bundle offers and personalized recommendations.
